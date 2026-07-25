@@ -1,0 +1,2 @@
+spacy==3.8.7
+es_core_news_sm==3.8.0
